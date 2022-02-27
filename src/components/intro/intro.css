@@ -1,10 +1,9 @@
-*{
-    margin-top: -50px;
-}
+
 .i{
     display: flex;
     height :100vh;
     background-color: black;
+    margin-top: 50px;
 }
 .i-left{
     flex: 1;
